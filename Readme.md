@@ -1,29 +1,29 @@
-# Calculadora de IMC
+# IMC Calculator
 
 ![Header](./Header.png)
 
-## Descrição
-A Calculadora de IMC é um aplicativo desenvolvido no MIT App Inventor que permite aos usuários calcular seu Índice de Massa Corporal (IMC), uma medida que avalia a relação entre peso e altura.
+## Description
+The BMI Calculator is an application developed in MIT App Inventor that allows users to calculate their Body Mass Index (BMI), a measure that evaluates the relationship between weight and height.
 
-## Funcionalidades
-- Cálculo do IMC: Os usuários podem inserir seu peso e altura para calcular seu IMC.
-- Classificação do IMC: O aplicativo fornece uma classificação do IMC com base nos valores calculados.
+## Features
+- BMI Calculation: Users can input their weight and height to calculate their BMI.
+- BMI Classification: The app provides a classification of BMI based on the calculated values.
 
-## Como Usar
-1. **Inserir Peso e Altura:** Digite seu peso em quilogramas e sua altura em metros nos campos fornecidos.
-2. **Pressionar o Botão "Calcular IMC":** Após inserir os dados, pressione o botão "Calcular IMC".
-3. **Visualizar Resultado:** O aplicativo exibirá seu IMC calculado e sua classificação correspondente.
+## How to Use
+1. **Enter Weight and Height:** Enter your weight in kilograms and your height in meters in the provided fields.
+2. **Press the "Calculate BMI" Button:** After entering the data, press the "Calculate BMI" button.
+3. **View Result:** The app will display your calculated BMI and its corresponding classification.
 
-## Como Instalar
-1. **Baixar o APK:** Baixe o arquivo APK do aplicativo em [link para download].
-2. **Permissões:** Certifique-se de permitir a instalação de aplicativos de fontes desconhecidas nas configurações do seu dispositivo.
-3. **Instalar:** Abra o arquivo APK baixado e siga as instruções na tela para concluir a instalação.
+## How to Install
+1. **Download the APK:** Download the APK file of the app from [download link].
+2. **Permissions:** Make sure to allow installation of apps from unknown sources in your device settings.
+3. **Install:** Open the downloaded APK file and follow the on-screen instructions to complete the installation.
 
-## Tecnologias Utilizadas
+## Technologies Used
 - MIT App Inventor
 
-## Contribuição e Feedback
-Se você tiver ideias para melhorar este aplicativo ou encontrar algum problema, sinta-se à vontade para contribuir ou fornecer feedback.
+## Contribution and Feedback
+If you have any ideas to improve this app or encounter any issues, feel free to contribute or provide feedback.
 
-## Autor
-Desenvolvido por Julia.
+## Author
+Developed by Julia.

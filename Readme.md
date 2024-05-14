@@ -1,4 +1,4 @@
-# IMC Calculator
+# IMC Calculate
 
 ![Header](./Header.png)
 
